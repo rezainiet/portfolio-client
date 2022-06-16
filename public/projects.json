@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Parts Producer",
+        "info": "It is a full stack application. Made with ReactJS.",
+        "img1": "https://i.ibb.co/XszwcNW/parts-producer.png",
+        "img2": "https://i.ibb.co/qy4nTxy/image.png",
+        "img3": "https://i.ibb.co/12Scxzs/image.png"
+    },
+    {
+        "name": "Macology",
+        "info": "It is a full stack application. Made with ReactJS.",
+        "img1": "https://i.ibb.co/BnttrCs/macology.png",
+        "img2": "https://i.ibb.co/yBVG27Z/image.png",
+        "img3": "https://i.ibb.co/44wm1Xt/image.png"
+    },
+    {
+        "name": "Gym Master",
+        "info": "It is a simple website. Made with ReactJS.",
+        "img1": "https://i.ibb.co/9ptJgkV/gym-master2.png",
+        "img2": "https://i.ibb.co/T1rG7QK/gym-master-3.png",
+        "img3": "https://i.ibb.co/sW8DPkh/gym-master-4.png"
+    }
+]
